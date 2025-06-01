@@ -1,0 +1,22 @@
+1) 
+Why to learn React? it's a famous js library it makes easy to manage and build complex frontend.
+
+2) 
+Before React, there was no automatic sync between JavaScript data and the DOM (the visible webpage).
+Developers had to manually update the DOM whenever data changed.
+This manual process was error-prone — easy to forget, miss updates, or get out of sync.
+That caused problems like phantom messages, wrong notification counts, or leftover UI elements.
+
+React solves this by:
+Keeping the UI automatically synced with the data (state).
+When your data changes, React re-renders only the parts that need updating, so the DOM always matches your latest data.
+You don’t update the DOM directly anymore — React does it for you.
+
+3) 
+Framework VS Library
+
+4) 
+Captilize the components name and use jsx if it return a jsx
+
+5) 
+React Hooks: https://www.freecodecamp.org/news/full-guide-to-react-hooks/
