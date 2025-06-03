@@ -1,0 +1,9 @@
+// HOOKS
+https://www.uxpin.com/studio/blog/react-hooks/#:~:text=A%20React%20Hook%20is%20a,easier%20to%20read%20and%20write.
+
+// Babel
+Babel is a JavaScript compiler that plays a crucial role in React development. It primarily transforms modern JavaScript code, including JSX syntax and ES6+ features, into a backward-compatible version that older browsers can understand.
+
+// Why do we use createRoot?
+
+// React Fiber: https://www.youtube.com/watch?v=MPCVGFvgVEQ&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=6
