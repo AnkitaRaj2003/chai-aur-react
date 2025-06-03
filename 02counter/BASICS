@@ -7,3 +7,5 @@ Babel is a JavaScript compiler that plays a crucial role in React development. I
 // Why do we use createRoot?
 
 // React Fiber: https://www.youtube.com/watch?v=MPCVGFvgVEQ&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=6
+
+// Props: https://www.linkedin.com/pulse/state-vs-props-react-whats-difference-mohammad-shoeb-faizan/
